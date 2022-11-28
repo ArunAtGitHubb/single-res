@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "204250041864",
+    "project_id": "single-restaurant-6b850",
+    "storage_bucket": "single-restaurant-6b850.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204250041864:android:f22024f2135af58832cbbd",
+        "android_client_info": {
+          "package_name": "com.jellysoft.vegi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204250041864-hjvq0mp0tu4pg5nlumqb0m8msp1211du.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHqukyQwiPCenjm15yIE7kwrbj3t8xVEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204250041864-hjvq0mp0tu4pg5nlumqb0m8msp1211du.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204250041864:android:669680786011f41f32cbbd",
+        "android_client_info": {
+          "package_name": "com.jellysoft.vegidelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204250041864-hjvq0mp0tu4pg5nlumqb0m8msp1211du.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHqukyQwiPCenjm15yIE7kwrbj3t8xVEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204250041864-hjvq0mp0tu4pg5nlumqb0m8msp1211du.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
